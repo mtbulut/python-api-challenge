@@ -10,6 +10,7 @@ ipykernel = "*"
 pandas = "*"
 matplotlib = "*"
 requests = "*"
+citipy = "*"
 
 [requires]
 python_version = "3.7"
